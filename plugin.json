@@ -1,0 +1,12 @@
+{
+    "ID":"9D6C2A6HD2D2C23B084D411DB66FE0C8",
+    "ActionKeyword":"o",
+    "Name":"togo",
+    "Description":"Open url in default browser",
+    "Author":"ymlair",
+    "Version":"0.1.0",
+    "Language":"python",
+    "Website":"https://github.com/Wox-launche/Wox",
+    "IcoPath":"Images\\app.ico",
+    "ExecuteFileName":"main.py"
+}
